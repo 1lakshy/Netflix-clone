@@ -1,0 +1,4 @@
+export const API_KEY =" d8ce3ef7f81aa5b7440e6428e2afa684";
+export const API_LINK = "https://api.themoviedb.org/3/movie/550?api_key=d8ce3ef7f81aa5b7440e6428e2afa684"
+
+export const API_ACCESS_TOKEN ="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkOGNlM2VmN2Y4MWFhNWI3NDQwZTY0MjhlMmFmYTY4NCIsInN1YiI6IjYzODRjNTdjNWVkOGU5MDA4NmFiZGE4OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.8351KyFVeZQxuILb8Gra1jz0p3fRH_LnUuXxmwoUO2Q"

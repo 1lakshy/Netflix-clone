@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&family=Roboto+Condensed:wght@400;700&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+body{
+    overflow-x: hidden;
+    background: #000;
+    color: #fff;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+
+.logo{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+}
+    img{
+      width:6rem;
+    height: 2rem    
+    }
+
+.authBtn{
+    width: 10rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e50914;
+    color: #fff;
+    font-family: "ubuntu" ,sans-serif;
+    border: none;
+    cursor: pointer;
+}
+
+.authText-h1{
+
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: "ubuntu" ,sans-serif;
+}
+
+.authText-p{
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: "ubuntu" ,sans-serif;
+}
+
+.t-white{
+    color:#fff;
+}
+
+.li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 1rem;
+}
+
+/* Netflix basic class */
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.s-btw{
+    justify-content: space-between;
+}
+
+.right{
+    margin-right: 2rem;
+}
+
+.btn{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.btn svg{
+    color: #e50914;
+    font-size: 1.2rem;
+}
+
+.none{
+    display: none;
+}
+
+.visible{
+    display: block;
+    transition-delay:2s ;
+    transition: 3s ease-in-out;
+}
+
+.first-look{
+margin-left: 13.2rem;
+  
+}
